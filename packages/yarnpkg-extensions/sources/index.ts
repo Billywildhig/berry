@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/naming-convention */
+/* eslint-disable @typescript-eslint/naming-convention */ 
 
 // To extend this list, please open a PR on the relevant repository that adds
 // the same fields as you add here and prefix your changes with the relevant
